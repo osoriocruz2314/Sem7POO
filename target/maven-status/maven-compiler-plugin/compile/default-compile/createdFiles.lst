@@ -1,0 +1,4 @@
+com\kdelectronics\conexion\ConexionDB.class
+com\kdelectronics\model\Producto.class
+com\kdelectronics\main\Main.class
+com\kdelectronics\dao\ProductoDAO.class
